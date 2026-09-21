@@ -2,6 +2,8 @@
 
 A simple two-player Tic-Tac-Toe game built to practice object-oriented programming in JavaScript.
 
+![screenshot](./images/tic-tac-toe.png)
+
 ## What the project does
 
 - Lets two players take turns placing **X** and **O** on the board.
