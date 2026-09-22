@@ -100,11 +100,8 @@ function winCheck(mark){
         else{
         alert("TOUGH GAME ! TIE ")
         }
-    }
-
-  
+    } 
 }
-
 
 
 // reset the game by empty the box
