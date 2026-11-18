@@ -3,6 +3,7 @@
 A simple two-player Tic-Tac-Toe game built to practice object-oriented programming in JavaScript.
 
 ![screenshot](./images/tic-tac-toe.png)
+https://dagmawitesfay.github.io/OOP-BASED-tic-tac-toe/
 
 ## What the project does
 
